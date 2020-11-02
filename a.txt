@@ -1,2 +1,2 @@
 hello world i am a (changed from the remote)
-
+line 2 in local repo
