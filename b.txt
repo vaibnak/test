@@ -1,1 +1,2 @@
 this is b.txt, made in test4 branch
+line 2 edited
