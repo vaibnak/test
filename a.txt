@@ -4,3 +4,5 @@ line number 2 changed in remote repo
 line 4 edited in remote
 
 line 5 edited in local
+
+line 8 - value changed for the sake of testing
