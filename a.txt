@@ -6,3 +6,4 @@ line 4 edited in remote
 line 5 edited in local
 
 line 8 - value changed for the sake of testing
+line 9 - value changed again for the sake of testing
